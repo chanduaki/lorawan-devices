@@ -1545,3 +1545,6 @@ vendors:
 
   - id: the-box-development
     name: The-Box Development
+
+  - id: ttc-vendor
+    name: The Things Conference
